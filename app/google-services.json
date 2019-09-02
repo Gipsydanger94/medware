@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1046035529407",
+    "firebase_url": "https://medware-85baa.firebaseio.com",
+    "project_id": "medware-85baa",
+    "storage_bucket": "medware-85baa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046035529407:android:bbfa1dd3e4315620",
+        "android_client_info": {
+          "package_name": "sidney.odingo.medwareasap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046035529407-5vqhenmmcvdqt657ut2kavpq0h3c19sm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sidney.odingo.medwareasap",
+            "certificate_hash": "7dfbac9e3793fca8c385e53452d4ada24552e1d3"
+          }
+        },
+        {
+          "client_id": "1046035529407-pkacj5biru6r6kn97n8jqsqgol9ikemo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYQ6p_WoSiBMv2O0S3URU6emS-PNM9v6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046035529407-pkacj5biru6r6kn97n8jqsqgol9ikemo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
